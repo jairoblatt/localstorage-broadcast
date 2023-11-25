@@ -1,5 +1,7 @@
 # Local Storage Broadcast
 
+![Example](./demo.gif)
+
 This project demonstrates a simple implementation using the Local Storage API to create a broadcast channel between browser tabs.
 
 ## Overview
